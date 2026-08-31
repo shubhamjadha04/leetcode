@@ -11,4 +11,5 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/shubhamjadha04/leetcode/tree/master/0175-combine-two-tables) |
+| [3436-find-valid-emails](https://github.com/shubhamjadha04/leetcode/tree/master/3436-find-valid-emails) |
 <!---LeetCode Topics End-->
