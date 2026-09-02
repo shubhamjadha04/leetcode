@@ -15,4 +15,12 @@ Here i practice daily questions
 | [3436-find-valid-emails](https://github.com/shubhamjadha04/leetcode/tree/master/3436-find-valid-emails) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/shubhamjadha04/leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3570-find-books-with-no-available-copies](https://github.com/shubhamjadha04/leetcode/tree/master/3570-find-books-with-no-available-copies) |
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamjadha04/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamjadha04/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
