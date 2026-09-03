@@ -23,6 +23,7 @@ Here i practice daily questions
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shubhamjadha04/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/shubhamjadha04/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/shubhamjadha04/leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,4 +39,24 @@ Here i practice daily questions
 | ------- |
 | [0136-single-number](https://github.com/shubhamjadha04/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0137-single-number-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shubhamjadha04/leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shubhamjadha04/leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shubhamjadha04/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shubhamjadha04/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shubhamjadha04/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
