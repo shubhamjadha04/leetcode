@@ -7,6 +7,7 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shubhamjadha04/leetcode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Here i practice daily questions
 | [0217-contains-duplicate](https://github.com/shubhamjadha04/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/shubhamjadha04/leetcode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,12 +47,14 @@ Here i practice daily questions
 | ------- |
 | [0136-single-number](https://github.com/shubhamjadha04/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shubhamjadha04/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shubhamjadha04/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -60,6 +64,7 @@ Here i practice daily questions
 | ------- |
 | [0169-majority-element](https://github.com/shubhamjadha04/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shubhamjadha04/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -72,4 +77,8 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
