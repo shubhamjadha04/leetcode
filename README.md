@@ -27,6 +27,7 @@ Here i practice daily questions
 | [0136-single-number](https://github.com/shubhamjadha04/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/shubhamjadha04/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shubhamjadha04/leetcode/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shubhamjadha04/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shubhamjadha04/leetcode/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,6 +56,7 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shubhamjadha04/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shubhamjadha04/leetcode/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
