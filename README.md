@@ -13,6 +13,7 @@ Here i practice daily questions
 | [0175-combine-two-tables](https://github.com/shubhamjadha04/leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/shubhamjadha04/leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/shubhamjadha04/leetcode/tree/master/0177-nth-highest-salary) |
+| [0178-rank-scores](https://github.com/shubhamjadha04/leetcode/tree/master/0178-rank-scores) |
 | [3436-find-valid-emails](https://github.com/shubhamjadha04/leetcode/tree/master/3436-find-valid-emails) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/shubhamjadha04/leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3570-find-books-with-no-available-copies](https://github.com/shubhamjadha04/leetcode/tree/master/3570-find-books-with-no-available-copies) |
