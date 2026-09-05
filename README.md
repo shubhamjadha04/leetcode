@@ -34,6 +34,7 @@ Here i practice daily questions
 | [0228-summary-ranges](https://github.com/shubhamjadha04/leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shubhamjadha04/leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/shubhamjadha04/leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,4 +88,12 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/shubhamjadha04/leetcode/tree/master/0283-move-zeroes) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/shubhamjadha04/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/shubhamjadha04/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
