@@ -7,6 +7,7 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shubhamjadha04/leetcode/tree/master/0009-palindrome-number) |
+| [0168-excel-sheet-column-title](https://github.com/shubhamjadha04/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 ## Database
 |  |
@@ -97,4 +98,8 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shubhamjadha04/leetcode/tree/master/0303-range-sum-query-immutable) |
+## String
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/shubhamjadha04/leetcode/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
