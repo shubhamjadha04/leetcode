@@ -43,6 +43,7 @@ Here i practice daily questions
 | [0303-range-sum-query-immutable](https://github.com/shubhamjadha04/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/shubhamjadha04/leetcode/tree/master/0455-assign-cookies) |
+| [0463-island-perimeter](https://github.com/shubhamjadha04/leetcode/tree/master/0463-island-perimeter) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,4 +117,16 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/shubhamjadha04/leetcode/tree/master/0455-assign-cookies) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/shubhamjadha04/leetcode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/shubhamjadha04/leetcode/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/shubhamjadha04/leetcode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
