@@ -44,6 +44,7 @@ Here i practice daily questions
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/shubhamjadha04/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/shubhamjadha04/leetcode/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/shubhamjadha04/leetcode/tree/master/0485-max-consecutive-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
