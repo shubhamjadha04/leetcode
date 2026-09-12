@@ -24,6 +24,7 @@ Here i practice daily questions
 | [0626-exchange-seats](https://github.com/shubhamjadha04/leetcode/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/shubhamjadha04/leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/shubhamjadha04/leetcode/tree/master/1070-product-sales-analysis-iii) |
+| [1158-market-analysis-i](https://github.com/shubhamjadha04/leetcode/tree/master/1158-market-analysis-i) |
 | [3436-find-valid-emails](https://github.com/shubhamjadha04/leetcode/tree/master/3436-find-valid-emails) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/shubhamjadha04/leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3570-find-books-with-no-available-copies](https://github.com/shubhamjadha04/leetcode/tree/master/3570-find-books-with-no-available-copies) |
