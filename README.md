@@ -27,6 +27,7 @@ Here i practice daily questions
 | [1070-product-sales-analysis-iii](https://github.com/shubhamjadha04/leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1158-market-analysis-i](https://github.com/shubhamjadha04/leetcode/tree/master/1158-market-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/shubhamjadha04/leetcode/tree/master/1164-product-price-at-a-given-date) |
+| [1174-immediate-food-delivery-ii](https://github.com/shubhamjadha04/leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [3436-find-valid-emails](https://github.com/shubhamjadha04/leetcode/tree/master/3436-find-valid-emails) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/shubhamjadha04/leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3570-find-books-with-no-available-copies](https://github.com/shubhamjadha04/leetcode/tree/master/3570-find-books-with-no-available-copies) |
