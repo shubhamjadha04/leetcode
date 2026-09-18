@@ -50,6 +50,7 @@ Here i practice daily questions
 | [0455-assign-cookies](https://github.com/shubhamjadha04/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/shubhamjadha04/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/shubhamjadha04/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/shubhamjadha04/leetcode/tree/master/0495-teemo-attacking) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,4 +137,8 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/shubhamjadha04/leetcode/tree/master/0463-island-perimeter) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/shubhamjadha04/leetcode/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
