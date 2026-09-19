@@ -51,6 +51,7 @@ Here i practice daily questions
 | [0463-island-perimeter](https://github.com/shubhamjadha04/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/shubhamjadha04/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/shubhamjadha04/leetcode/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/shubhamjadha04/leetcode/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Here i practice daily questions
 | [0219-contains-duplicate-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/shubhamjadha04/leetcode/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -141,4 +143,12 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/shubhamjadha04/leetcode/tree/master/0495-teemo-attacking) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shubhamjadha04/leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shubhamjadha04/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
