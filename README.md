@@ -55,6 +55,7 @@ Here i practice daily questions
 | [0495-teemo-attacking](https://github.com/shubhamjadha04/leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/shubhamjadha04/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/shubhamjadha04/leetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/shubhamjadha04/leetcode/tree/master/0506-relative-ranks) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Here i practice daily questions
 | [0217-contains-duplicate](https://github.com/shubhamjadha04/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/shubhamjadha04/leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/shubhamjadha04/leetcode/tree/master/0506-relative-ranks) |
 ## Counting
 |  |
 | ------- |
@@ -156,4 +158,8 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shubhamjadha04/leetcode/tree/master/0496-next-greater-element-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/shubhamjadha04/leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
