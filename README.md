@@ -54,6 +54,7 @@ Here i practice daily questions
 | [0485-max-consecutive-ones](https://github.com/shubhamjadha04/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/shubhamjadha04/leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/shubhamjadha04/leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/shubhamjadha04/leetcode/tree/master/0500-keyboard-row) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Here i practice daily questions
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shubhamjadha04/leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/shubhamjadha04/leetcode/tree/master/0500-keyboard-row) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -125,6 +127,7 @@ Here i practice daily questions
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/shubhamjadha04/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shubhamjadha04/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0500-keyboard-row](https://github.com/shubhamjadha04/leetcode/tree/master/0500-keyboard-row) |
 ## Quicksort
 |  |
 | ------- |
