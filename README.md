@@ -80,6 +80,7 @@ Here i practice daily questions
 | [0205-isomorphic-strings](https://github.com/shubhamjadha04/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shubhamjadha04/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/shubhamjadha04/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shubhamjadha04/leetcode/tree/master/0496-next-greater-element-i) |
@@ -93,6 +94,7 @@ Here i practice daily questions
 | ------- |
 | [0169-majority-element](https://github.com/shubhamjadha04/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shubhamjadha04/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shubhamjadha04/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/shubhamjadha04/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/shubhamjadha04/leetcode/tree/master/0506-relative-ranks) |
@@ -131,6 +133,7 @@ Here i practice daily questions
 | [0168-excel-sheet-column-title](https://github.com/shubhamjadha04/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shubhamjadha04/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/shubhamjadha04/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/shubhamjadha04/leetcode/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/shubhamjadha04/leetcode/tree/master/0500-keyboard-row) |
 ## Quicksort
 |  |
