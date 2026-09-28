@@ -56,6 +56,7 @@ Here i practice daily questions
 | [0496-next-greater-element-i](https://github.com/shubhamjadha04/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/shubhamjadha04/leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/shubhamjadha04/leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/shubhamjadha04/leetcode/tree/master/0561-array-partition) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Here i practice daily questions
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/shubhamjadha04/leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/shubhamjadha04/leetcode/tree/master/0561-array-partition) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Here i practice daily questions
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/shubhamjadha04/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/shubhamjadha04/leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/shubhamjadha04/leetcode/tree/master/0561-array-partition) |
 ## Counting
 |  |
 | ------- |
@@ -167,4 +170,8 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/shubhamjadha04/leetcode/tree/master/0506-relative-ranks) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/shubhamjadha04/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
