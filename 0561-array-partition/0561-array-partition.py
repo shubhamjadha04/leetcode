@@ -1,17 +1,10 @@
 class Solution:
     def arrayPairSum(self, nums: List[int]) -> int:
         nums.sort()
-        res = []
-        i = 0
-        j = 1
 
-        while j <len(nums):
-            res.append(min(nums[i],nums[j]))
+        res = 0
 
-            i +=2
-            j +=2
+        for i in range(0, len(nums), 2):
+            res += nums[i]
 
-        
-        return sum(res)
-
-        
+        return res
