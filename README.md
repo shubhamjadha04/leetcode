@@ -145,6 +145,7 @@ Here i practice daily questions
 | [0171-excel-sheet-column-number](https://github.com/shubhamjadha04/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/shubhamjadha04/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shubhamjadha04/leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/shubhamjadha04/leetcode/tree/master/0257-binary-tree-paths) |
 | [0500-keyboard-row](https://github.com/shubhamjadha04/leetcode/tree/master/0500-keyboard-row) |
 ## Quicksort
 |  |
@@ -153,6 +154,7 @@ Here i practice daily questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/shubhamjadha04/leetcode/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/shubhamjadha04/leetcode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
@@ -184,4 +186,16 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/shubhamjadha04/leetcode/tree/master/0561-array-partition) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/shubhamjadha04/leetcode/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/shubhamjadha04/leetcode/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/shubhamjadha04/leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
