@@ -10,6 +10,7 @@ Here i practice daily questions
 | [0168-excel-sheet-column-title](https://github.com/shubhamjadha04/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shubhamjadha04/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
+| [0598-range-addition-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0598-range-addition-ii) |
 ## Database
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Here i practice daily questions
 | [0561-array-partition](https://github.com/shubhamjadha04/leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/shubhamjadha04/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/shubhamjadha04/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0598-range-addition-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
