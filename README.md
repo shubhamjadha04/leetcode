@@ -31,6 +31,7 @@ Here i practice daily questions
 | [1174-immediate-food-delivery-ii](https://github.com/shubhamjadha04/leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/shubhamjadha04/leetcode/tree/master/1193-monthly-transactions-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/shubhamjadha04/leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1321-restaurant-growth](https://github.com/shubhamjadha04/leetcode/tree/master/1321-restaurant-growth) |
 | [3436-find-valid-emails](https://github.com/shubhamjadha04/leetcode/tree/master/3436-find-valid-emails) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/shubhamjadha04/leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3570-find-books-with-no-available-copies](https://github.com/shubhamjadha04/leetcode/tree/master/3570-find-books-with-no-available-copies) |
