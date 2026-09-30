@@ -63,6 +63,7 @@ Here i practice daily questions
 | [0566-reshape-the-matrix](https://github.com/shubhamjadha04/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/shubhamjadha04/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0598-range-addition-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/shubhamjadha04/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Here i practice daily questions
 | [0496-next-greater-element-i](https://github.com/shubhamjadha04/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/shubhamjadha04/leetcode/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/shubhamjadha04/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/shubhamjadha04/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -149,6 +151,7 @@ Here i practice daily questions
 | [0242-valid-anagram](https://github.com/shubhamjadha04/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/shubhamjadha04/leetcode/tree/master/0257-binary-tree-paths) |
 | [0500-keyboard-row](https://github.com/shubhamjadha04/leetcode/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/shubhamjadha04/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Quicksort
 |  |
 | ------- |
