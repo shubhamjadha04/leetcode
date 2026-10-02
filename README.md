@@ -97,6 +97,7 @@ Here i practice daily questions
 | [0219-contains-duplicate-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shubhamjadha04/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/shubhamjadha04/leetcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shubhamjadha04/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/shubhamjadha04/leetcode/tree/master/0500-keyboard-row) |
@@ -122,6 +123,7 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shubhamjadha04/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/shubhamjadha04/leetcode/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/shubhamjadha04/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -161,6 +163,7 @@ Here i practice daily questions
 | [0257-binary-tree-paths](https://github.com/shubhamjadha04/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/shubhamjadha04/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shubhamjadha04/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/shubhamjadha04/leetcode/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/shubhamjadha04/leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shubhamjadha04/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Quicksort
