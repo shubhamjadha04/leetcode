@@ -210,4 +210,8 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/shubhamjadha04/leetcode/tree/master/0257-binary-tree-paths) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/shubhamjadha04/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
