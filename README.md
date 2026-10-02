@@ -34,6 +34,7 @@ Here i practice daily questions
 | [1204-last-person-to-fit-in-the-bus](https://github.com/shubhamjadha04/leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1321-restaurant-growth](https://github.com/shubhamjadha04/leetcode/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/shubhamjadha04/leetcode/tree/master/1341-movie-rating) |
+| [1393-capital-gainloss](https://github.com/shubhamjadha04/leetcode/tree/master/1393-capital-gainloss) |
 | [1907-count-salary-categories](https://github.com/shubhamjadha04/leetcode/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/shubhamjadha04/leetcode/tree/master/1934-confirmation-rate) |
 | [3436-find-valid-emails](https://github.com/shubhamjadha04/leetcode/tree/master/3436-find-valid-emails) |
