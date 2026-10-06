@@ -147,6 +147,7 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/shubhamjadha04/leetcode/tree/master/0278-first-bad-version) |
 ## Two Pointers
 |  |
 | ------- |
@@ -231,4 +232,8 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shubhamjadha04/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/shubhamjadha04/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
