@@ -76,6 +76,7 @@ Here i practice daily questions
 | [0661-image-smoother](https://github.com/shubhamjadha04/leetcode/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shubhamjadha04/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/shubhamjadha04/leetcode/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0697-degree-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,6 +113,7 @@ Here i practice daily questions
 | [0594-longest-harmonious-subsequence](https://github.com/shubhamjadha04/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shubhamjadha04/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/shubhamjadha04/leetcode/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0697-degree-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
