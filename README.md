@@ -74,6 +74,7 @@ Here i practice daily questions
 | [0643-maximum-average-subarray-i](https://github.com/shubhamjadha04/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/shubhamjadha04/leetcode/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/shubhamjadha04/leetcode/tree/master/0661-image-smoother) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/shubhamjadha04/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
