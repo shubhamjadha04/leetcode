@@ -80,6 +80,7 @@ Here i practice daily questions
 | [0697-degree-of-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/shubhamjadha04/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/shubhamjadha04/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/shubhamjadha04/leetcode/tree/master/0706-design-hashmap) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Here i practice daily questions
 | [0645-set-mismatch](https://github.com/shubhamjadha04/leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/shubhamjadha04/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/shubhamjadha04/leetcode/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -170,6 +172,7 @@ Here i practice daily questions
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shubhamjadha04/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/shubhamjadha04/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/shubhamjadha04/leetcode/tree/master/0706-design-hashmap) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -246,6 +249,7 @@ Here i practice daily questions
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shubhamjadha04/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0705-design-hashset](https://github.com/shubhamjadha04/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/shubhamjadha04/leetcode/tree/master/0706-design-hashmap) |
 ## Interactive
 |  |
 | ------- |
@@ -254,4 +258,5 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/shubhamjadha04/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/shubhamjadha04/leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
