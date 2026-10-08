@@ -79,6 +79,7 @@ Here i practice daily questions
 | [0682-baseball-game](https://github.com/shubhamjadha04/leetcode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/shubhamjadha04/leetcode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/shubhamjadha04/leetcode/tree/master/0705-design-hashset) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Here i practice daily questions
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shubhamjadha04/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/shubhamjadha04/leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/shubhamjadha04/leetcode/tree/master/0705-design-hashset) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -167,6 +169,7 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shubhamjadha04/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/shubhamjadha04/leetcode/tree/master/0705-design-hashset) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -242,8 +245,13 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shubhamjadha04/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0705-design-hashset](https://github.com/shubhamjadha04/leetcode/tree/master/0705-design-hashset) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/shubhamjadha04/leetcode/tree/master/0278-first-bad-version) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/shubhamjadha04/leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
