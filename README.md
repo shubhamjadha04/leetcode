@@ -78,6 +78,7 @@ Here i practice daily questions
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shubhamjadha04/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/shubhamjadha04/leetcode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0697-degree-of-an-array) |
+| [0704-binary-search](https://github.com/shubhamjadha04/leetcode/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +155,7 @@ Here i practice daily questions
 | ------- |
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shubhamjadha04/leetcode/tree/master/0278-first-bad-version) |
+| [0704-binary-search](https://github.com/shubhamjadha04/leetcode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
