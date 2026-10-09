@@ -1,10 +1,16 @@
 class Solution:
     def runningSum(self, nums: list[int]) -> list[int]:
         res =[]
+        max_sum = 0
 
         for i in range(len(nums)):
-            res.append(sum(nums[:i+1]))
+            max_sum += nums[i]
 
+            res.append(max_sum)
 
         return res
+            
+
+
+        
         
