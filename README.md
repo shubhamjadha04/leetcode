@@ -85,6 +85,7 @@ Here i practice daily questions
 | [0706-design-hashmap](https://github.com/shubhamjadha04/leetcode/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/shubhamjadha04/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/shubhamjadha04/leetcode/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/shubhamjadha04/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -182,6 +183,7 @@ Here i practice daily questions
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shubhamjadha04/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/shubhamjadha04/leetcode/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/shubhamjadha04/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
 | ------- |
