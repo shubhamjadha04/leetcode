@@ -86,6 +86,7 @@ Here i practice daily questions
 | [0717-1-bit-and-2-bit-characters](https://github.com/shubhamjadha04/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/shubhamjadha04/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/shubhamjadha04/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/shubhamjadha04/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -222,6 +223,7 @@ Here i practice daily questions
 | [0495-teemo-attacking](https://github.com/shubhamjadha04/leetcode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/shubhamjadha04/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/shubhamjadha04/leetcode/tree/master/0682-baseball-game) |
+| [1920-build-array-from-permutation](https://github.com/shubhamjadha04/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Stack
 |  |
 | ------- |
