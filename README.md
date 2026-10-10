@@ -96,6 +96,7 @@ Here i practice daily questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamjadha04/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shubhamjadha04/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0392-is-subsequence](https://github.com/shubhamjadha04/leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -180,6 +181,7 @@ Here i practice daily questions
 | [0283-move-zeroes](https://github.com/shubhamjadha04/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shubhamjadha04/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shubhamjadha04/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/shubhamjadha04/leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/shubhamjadha04/leetcode/tree/master/0455-assign-cookies) |
 ## Design
 |  |
@@ -206,6 +208,7 @@ Here i practice daily questions
 | [0383-ransom-note](https://github.com/shubhamjadha04/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shubhamjadha04/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shubhamjadha04/leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/shubhamjadha04/leetcode/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/shubhamjadha04/leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shubhamjadha04/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Quicksort
