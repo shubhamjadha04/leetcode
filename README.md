@@ -87,6 +87,7 @@ Here i practice daily questions
 | [0706-design-hashmap](https://github.com/shubhamjadha04/leetcode/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/shubhamjadha04/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/shubhamjadha04/leetcode/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/shubhamjadha04/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shubhamjadha04/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/shubhamjadha04/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/shubhamjadha04/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -175,6 +176,7 @@ Here i practice daily questions
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shubhamjadha04/leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/shubhamjadha04/leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/shubhamjadha04/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
