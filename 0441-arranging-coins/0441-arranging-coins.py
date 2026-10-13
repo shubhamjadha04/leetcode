@@ -1,15 +1,18 @@
 class Solution:
     def arrangeCoins(self, n: int) -> int:
-        i =1
-        count= 0
+        left = 1
+        right = n
+        ans = 0
 
-        while n > 0:
-            n= n-i
-            if n >= 0:
-                count+=1
-                
-            i+=1
+        while left <= right:
+            mid = (left+right)//2
+            coins = mid*(mid+1)//2
 
-        return count
+            if coins <= n:
+                ans = mid
+                left = mid+1
 
-        
+            else:
+                right = mid-1
+
+        return ans
