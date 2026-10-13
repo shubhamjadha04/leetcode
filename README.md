@@ -179,6 +179,7 @@ Here i practice daily questions
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shubhamjadha04/leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/shubhamjadha04/leetcode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/shubhamjadha04/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/shubhamjadha04/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shubhamjadha04/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Two Pointers
@@ -282,6 +283,7 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/shubhamjadha04/leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/shubhamjadha04/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Hash Function
 |  |
 | ------- |
