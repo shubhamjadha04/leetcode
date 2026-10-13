@@ -11,6 +11,7 @@ Here i practice daily questions
 | [0171-excel-sheet-column-number](https://github.com/shubhamjadha04/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/shubhamjadha04/leetcode/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shubhamjadha04/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/shubhamjadha04/leetcode/tree/master/0441-arranging-coins) |
 | [0598-range-addition-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhamjadha04/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -115,6 +116,7 @@ Here i practice daily questions
 | [0137-single-number-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shubhamjadha04/leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shubhamjadha04/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/shubhamjadha04/leetcode/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
@@ -218,6 +220,7 @@ Here i practice daily questions
 | [0387-first-unique-character-in-a-string](https://github.com/shubhamjadha04/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shubhamjadha04/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/shubhamjadha04/leetcode/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shubhamjadha04/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0500-keyboard-row](https://github.com/shubhamjadha04/leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shubhamjadha04/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Quicksort
