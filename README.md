@@ -92,6 +92,7 @@ Here i practice daily questions
 | [0724-find-pivot-index](https://github.com/shubhamjadha04/leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shubhamjadha04/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shubhamjadha04/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0748-shortest-completing-word](https://github.com/shubhamjadha04/leetcode/tree/master/0748-shortest-completing-word) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shubhamjadha04/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/shubhamjadha04/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/shubhamjadha04/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -140,6 +141,7 @@ Here i practice daily questions
 | [0697-degree-of-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/shubhamjadha04/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/shubhamjadha04/leetcode/tree/master/0706-design-hashmap) |
+| [0748-shortest-completing-word](https://github.com/shubhamjadha04/leetcode/tree/master/0748-shortest-completing-word) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -223,6 +225,7 @@ Here i practice daily questions
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shubhamjadha04/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0500-keyboard-row](https://github.com/shubhamjadha04/leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shubhamjadha04/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0748-shortest-completing-word](https://github.com/shubhamjadha04/leetcode/tree/master/0748-shortest-completing-word) |
 ## Quicksort
 |  |
 | ------- |
