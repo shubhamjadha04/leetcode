@@ -96,6 +96,7 @@ Here i practice daily questions
 | [0905-sort-array-by-parity](https://github.com/shubhamjadha04/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhamjadha04/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/shubhamjadha04/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shubhamjadha04/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/shubhamjadha04/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/shubhamjadha04/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -113,6 +114,7 @@ Here i practice daily questions
 | [0455-assign-cookies](https://github.com/shubhamjadha04/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shubhamjadha04/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/shubhamjadha04/leetcode/tree/master/0605-can-place-flowers) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/shubhamjadha04/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -167,6 +169,7 @@ Here i practice daily questions
 | [0905-sort-array-by-parity](https://github.com/shubhamjadha04/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhamjadha04/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/shubhamjadha04/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Counting
 |  |
 | ------- |
