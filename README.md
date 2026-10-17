@@ -93,6 +93,7 @@ Here i practice daily questions
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shubhamjadha04/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shubhamjadha04/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/shubhamjadha04/leetcode/tree/master/0748-shortest-completing-word) |
+| [0766-toeplitz-matrix](https://github.com/shubhamjadha04/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0905-sort-array-by-parity](https://github.com/shubhamjadha04/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhamjadha04/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -257,6 +258,7 @@ Here i practice daily questions
 | [0463-island-perimeter](https://github.com/shubhamjadha04/leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/shubhamjadha04/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/shubhamjadha04/leetcode/tree/master/0661-image-smoother) |
+| [0766-toeplitz-matrix](https://github.com/shubhamjadha04/leetcode/tree/master/0766-toeplitz-matrix) |
 ## Simulation
 |  |
 | ------- |
