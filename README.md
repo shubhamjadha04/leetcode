@@ -12,6 +12,7 @@ Here i practice daily questions
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/shubhamjadha04/leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shubhamjadha04/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/shubhamjadha04/leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/shubhamjadha04/leetcode/tree/master/0441-arranging-coins) |
 | [0598-range-addition-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhamjadha04/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -236,6 +237,7 @@ Here i practice daily questions
 | [0389-find-the-difference](https://github.com/shubhamjadha04/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/shubhamjadha04/leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shubhamjadha04/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/shubhamjadha04/leetcode/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/shubhamjadha04/leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shubhamjadha04/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-shortest-completing-word](https://github.com/shubhamjadha04/leetcode/tree/master/0748-shortest-completing-word) |
@@ -262,6 +264,7 @@ Here i practice daily questions
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/shubhamjadha04/leetcode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/shubhamjadha04/leetcode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/shubhamjadha04/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/shubhamjadha04/leetcode/tree/master/0682-baseball-game) |
