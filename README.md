@@ -98,6 +98,7 @@ Here i practice daily questions
 | [0748-shortest-completing-word](https://github.com/shubhamjadha04/leetcode/tree/master/0748-shortest-completing-word) |
 | [0766-toeplitz-matrix](https://github.com/shubhamjadha04/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0905-sort-array-by-parity](https://github.com/shubhamjadha04/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhamjadha04/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/shubhamjadha04/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -155,6 +156,7 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shubhamjadha04/leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -171,6 +173,7 @@ Here i practice daily questions
 | [0645-set-mismatch](https://github.com/shubhamjadha04/leetcode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shubhamjadha04/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/shubhamjadha04/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhamjadha04/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/shubhamjadha04/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -289,10 +292,12 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/shubhamjadha04/leetcode/tree/master/0506-relative-ranks) |
+| [0912-sort-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/shubhamjadha04/leetcode/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0912-sort-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -325,4 +330,16 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shubhamjadha04/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
