@@ -9,6 +9,7 @@ Here i practice daily questions
 | [0009-palindrome-number](https://github.com/shubhamjadha04/leetcode/tree/master/0009-palindrome-number) |
 | [0168-excel-sheet-column-title](https://github.com/shubhamjadha04/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shubhamjadha04/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/shubhamjadha04/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shubhamjadha04/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/shubhamjadha04/leetcode/tree/master/0367-valid-perfect-square) |
@@ -61,6 +62,7 @@ Here i practice daily questions
 | [0136-single-number](https://github.com/shubhamjadha04/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/shubhamjadha04/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/shubhamjadha04/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shubhamjadha04/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/shubhamjadha04/leetcode/tree/master/0228-summary-ranges) |
@@ -209,6 +211,7 @@ Here i practice daily questions
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/shubhamjadha04/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shubhamjadha04/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shubhamjadha04/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shubhamjadha04/leetcode/tree/master/0344-reverse-string) |
