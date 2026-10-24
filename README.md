@@ -128,6 +128,7 @@ Here i practice daily questions
 | ------- |
 | [0136-single-number](https://github.com/shubhamjadha04/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/shubhamjadha04/leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shubhamjadha04/leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shubhamjadha04/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -160,6 +161,7 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shubhamjadha04/leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/shubhamjadha04/leetcode/tree/master/0190-reverse-bits) |
 | [0912-sort-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
