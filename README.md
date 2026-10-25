@@ -19,6 +19,7 @@ Here i practice daily questions
 | [0441-arranging-coins](https://github.com/shubhamjadha04/leetcode/tree/master/0441-arranging-coins) |
 | [0598-range-addition-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhamjadha04/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1030-matrix-cells-in-distance-order](https://github.com/shubhamjadha04/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shubhamjadha04/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Database
 |  |
@@ -105,6 +106,7 @@ Here i practice daily questions
 | [0922-sort-array-by-parity-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhamjadha04/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/shubhamjadha04/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1030-matrix-cells-in-distance-order](https://github.com/shubhamjadha04/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shubhamjadha04/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/shubhamjadha04/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/shubhamjadha04/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -183,6 +185,7 @@ Here i practice daily questions
 | [0922-sort-array-by-parity-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhamjadha04/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/shubhamjadha04/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1030-matrix-cells-in-distance-order](https://github.com/shubhamjadha04/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 ## Counting
 |  |
 | ------- |
@@ -279,6 +282,7 @@ Here i practice daily questions
 | [0661-image-smoother](https://github.com/shubhamjadha04/leetcode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/shubhamjadha04/leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/shubhamjadha04/leetcode/tree/master/0766-toeplitz-matrix) |
+| [1030-matrix-cells-in-distance-order](https://github.com/shubhamjadha04/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 ## Simulation
 |  |
 | ------- |
@@ -355,4 +359,8 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/shubhamjadha04/leetcode/tree/master/0202-happy-number) |
+## Geometry
+|  |
+| ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/shubhamjadha04/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 <!---LeetCode Topics End-->
