@@ -261,6 +261,7 @@ Here i practice daily questions
 | [0434-number-of-segments-in-a-string](https://github.com/shubhamjadha04/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/shubhamjadha04/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/shubhamjadha04/leetcode/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/shubhamjadha04/leetcode/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shubhamjadha04/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-shortest-completing-word](https://github.com/shubhamjadha04/leetcode/tree/master/0748-shortest-completing-word) |
 ## Quicksort
