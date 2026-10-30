@@ -11,6 +11,7 @@ Here i practice daily questions
 | [0171-excel-sheet-column-number](https://github.com/shubhamjadha04/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/shubhamjadha04/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shubhamjadha04/leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/shubhamjadha04/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/shubhamjadha04/leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shubhamjadha04/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -133,6 +134,7 @@ Here i practice daily questions
 | [0136-single-number](https://github.com/shubhamjadha04/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/shubhamjadha04/leetcode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/shubhamjadha04/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shubhamjadha04/leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shubhamjadha04/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -385,4 +387,8 @@ Here i practice daily questions
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/shubhamjadha04/leetcode/tree/master/1051-height-checker) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shubhamjadha04/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
