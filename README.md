@@ -12,6 +12,7 @@ Here i practice daily questions
 | [0189-rotate-array](https://github.com/shubhamjadha04/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shubhamjadha04/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/shubhamjadha04/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/shubhamjadha04/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/shubhamjadha04/leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shubhamjadha04/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -293,6 +294,7 @@ Here i practice daily questions
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shubhamjadha04/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shubhamjadha04/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shubhamjadha04/leetcode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/shubhamjadha04/leetcode/tree/master/0495-teemo-attacking) |
@@ -391,4 +393,8 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shubhamjadha04/leetcode/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shubhamjadha04/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
