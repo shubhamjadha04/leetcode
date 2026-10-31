@@ -15,6 +15,7 @@ Here i practice daily questions
 | [0258-add-digits](https://github.com/shubhamjadha04/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shubhamjadha04/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/shubhamjadha04/leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/shubhamjadha04/leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shubhamjadha04/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/shubhamjadha04/leetcode/tree/master/0412-fizz-buzz) |
@@ -398,4 +399,24 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shubhamjadha04/leetcode/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shubhamjadha04/leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shubhamjadha04/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shubhamjadha04/leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shubhamjadha04/leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shubhamjadha04/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
