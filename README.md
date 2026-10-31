@@ -17,6 +17,7 @@ Here i practice daily questions
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/shubhamjadha04/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/shubhamjadha04/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shubhamjadha04/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/shubhamjadha04/leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shubhamjadha04/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/shubhamjadha04/leetcode/tree/master/0412-fizz-buzz) |
@@ -140,6 +141,7 @@ Here i practice daily questions
 | [0190-reverse-bits](https://github.com/shubhamjadha04/leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/shubhamjadha04/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/shubhamjadha04/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/shubhamjadha04/leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shubhamjadha04/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/shubhamjadha04/leetcode/tree/master/0645-set-mismatch) |
@@ -397,6 +399,7 @@ Here i practice daily questions
 | ------- |
 | [0231-power-of-two](https://github.com/shubhamjadha04/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shubhamjadha04/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shubhamjadha04/leetcode/tree/master/0342-power-of-four) |
 ## Number Theory
 |  |
 | ------- |
