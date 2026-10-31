@@ -23,6 +23,7 @@ Here i practice daily questions
 | [0412-fizz-buzz](https://github.com/shubhamjadha04/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shubhamjadha04/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/shubhamjadha04/leetcode/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/shubhamjadha04/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0598-range-addition-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhamjadha04/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1030-matrix-cells-in-distance-order](https://github.com/shubhamjadha04/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
