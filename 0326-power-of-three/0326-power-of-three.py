@@ -1,17 +1,13 @@
 class Solution:
     def isPowerOfThree(self, n: int) -> bool:
-        if n <=0:
+        if n <= 0:
             return False
 
-        if n == 1:
-            return True
+        i = 0
 
-        
-
-        for i in range(1,n):
-            if n == 3**i:
+        while 3**i <= n:
+            if 3**i == n:
                 return True
+            i += 1
 
-            if n < 3**i:
-                return False
-        
+        return False
