@@ -16,6 +16,7 @@ Here i practice daily questions
 | [0263-ugly-number](https://github.com/shubhamjadha04/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shubhamjadha04/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/shubhamjadha04/leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/shubhamjadha04/leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/shubhamjadha04/leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shubhamjadha04/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/shubhamjadha04/leetcode/tree/master/0412-fizz-buzz) |
@@ -395,6 +396,7 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shubhamjadha04/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/shubhamjadha04/leetcode/tree/master/0326-power-of-three) |
 ## Number Theory
 |  |
 | ------- |
