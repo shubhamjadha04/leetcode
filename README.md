@@ -111,6 +111,7 @@ Here i practice daily questions
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shubhamjadha04/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/shubhamjadha04/leetcode/tree/master/0748-shortest-completing-word) |
 | [0766-toeplitz-matrix](https://github.com/shubhamjadha04/leetcode/tree/master/0766-toeplitz-matrix) |
+| [0804-unique-morse-code-words](https://github.com/shubhamjadha04/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0905-sort-array-by-parity](https://github.com/shubhamjadha04/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -173,6 +174,7 @@ Here i practice daily questions
 | [0705-design-hashset](https://github.com/shubhamjadha04/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/shubhamjadha04/leetcode/tree/master/0706-design-hashmap) |
 | [0748-shortest-completing-word](https://github.com/shubhamjadha04/leetcode/tree/master/0748-shortest-completing-word) |
+| [0804-unique-morse-code-words](https://github.com/shubhamjadha04/leetcode/tree/master/0804-unique-morse-code-words) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -276,6 +278,7 @@ Here i practice daily questions
 | [0520-detect-capital](https://github.com/shubhamjadha04/leetcode/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shubhamjadha04/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-shortest-completing-word](https://github.com/shubhamjadha04/leetcode/tree/master/0748-shortest-completing-word) |
+| [0804-unique-morse-code-words](https://github.com/shubhamjadha04/leetcode/tree/master/0804-unique-morse-code-words) |
 ## Quicksort
 |  |
 | ------- |
