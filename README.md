@@ -66,6 +66,7 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubhamjadha04/leetcode/tree/master/0001-two-sum) |
+| [0119-pascals-triangle-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamjadha04/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shubhamjadha04/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -123,6 +124,7 @@ Here i practice daily questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamjadha04/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shubhamjadha04/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
