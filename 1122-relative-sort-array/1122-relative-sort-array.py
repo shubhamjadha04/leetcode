@@ -1,21 +1,20 @@
 class Solution:
     def relativeSortArray(self, arr1: list[int], arr2: list[int]) -> list[int]:
+        count = {}
+
+        # Count frequency of each number
+        for num in arr1:
+            count[num] = count.get(num, 0) + 1
+
         res = []
 
-        # Add elements according to arr2 order
-        for i in arr2:
-            for j in arr1:
-                if i == j:
-                    res.append(j)
+        # Add numbers in arr2 order
+        for num in arr2:
+            res.extend([num] * count[num])
+            del count[num]
 
-        # Find elements that are not in arr2
-        remaining = []
+        # Add remaining numbers in ascending order
+        for num in sorted(count):
+            res.extend([num] * count[num])
 
-        for num in arr1:
-            if num not in arr2:
-                remaining.append(num)
-
-        # Sort remaining elements
-        remaining.sort()
-
-        return res + remaining
+        return res
