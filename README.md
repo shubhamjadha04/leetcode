@@ -119,6 +119,7 @@ Here i practice daily questions
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/shubhamjadha04/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/shubhamjadha04/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/shubhamjadha04/leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/shubhamjadha04/leetcode/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shubhamjadha04/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/shubhamjadha04/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/shubhamjadha04/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -175,6 +176,7 @@ Here i practice daily questions
 | [0706-design-hashmap](https://github.com/shubhamjadha04/leetcode/tree/master/0706-design-hashmap) |
 | [0748-shortest-completing-word](https://github.com/shubhamjadha04/leetcode/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/shubhamjadha04/leetcode/tree/master/0804-unique-morse-code-words) |
+| [1122-relative-sort-array](https://github.com/shubhamjadha04/leetcode/tree/master/1122-relative-sort-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -203,6 +205,7 @@ Here i practice daily questions
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/shubhamjadha04/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/shubhamjadha04/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/shubhamjadha04/leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/shubhamjadha04/leetcode/tree/master/1122-relative-sort-array) |
 ## Counting
 |  |
 | ------- |
@@ -283,6 +286,7 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/shubhamjadha04/leetcode/tree/master/0455-assign-cookies) |
+| [1122-relative-sort-array](https://github.com/shubhamjadha04/leetcode/tree/master/1122-relative-sort-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -333,6 +337,7 @@ Here i practice daily questions
 | [0561-array-partition](https://github.com/shubhamjadha04/leetcode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/shubhamjadha04/leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/shubhamjadha04/leetcode/tree/master/1122-relative-sort-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -401,6 +406,7 @@ Here i practice daily questions
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/shubhamjadha04/leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/shubhamjadha04/leetcode/tree/master/1122-relative-sort-array) |
 ## Recursion
 |  |
 | ------- |
