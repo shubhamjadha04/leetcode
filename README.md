@@ -27,6 +27,7 @@ Here i practice daily questions
 | [0507-perfect-number](https://github.com/shubhamjadha04/leetcode/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhamjadha04/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0812-largest-triangle-area](https://github.com/shubhamjadha04/leetcode/tree/master/0812-largest-triangle-area) |
 | [1030-matrix-cells-in-distance-order](https://github.com/shubhamjadha04/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shubhamjadha04/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Database
@@ -114,6 +115,7 @@ Here i practice daily questions
 | [0766-toeplitz-matrix](https://github.com/shubhamjadha04/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/shubhamjadha04/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/shubhamjadha04/leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [0812-largest-triangle-area](https://github.com/shubhamjadha04/leetcode/tree/master/0812-largest-triangle-area) |
 | [0905-sort-array-by-parity](https://github.com/shubhamjadha04/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -393,6 +395,7 @@ Here i practice daily questions
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/shubhamjadha04/leetcode/tree/master/0812-largest-triangle-area) |
 | [1030-matrix-cells-in-distance-order](https://github.com/shubhamjadha04/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 ## String Matching
 |  |
@@ -441,4 +444,8 @@ Here i practice daily questions
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shubhamjadha04/leetcode/tree/master/0292-nim-game) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/shubhamjadha04/leetcode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
