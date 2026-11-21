@@ -125,6 +125,7 @@ Here i practice daily questions
 | [1051-height-checker](https://github.com/shubhamjadha04/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/shubhamjadha04/leetcode/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shubhamjadha04/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1331-rank-transform-of-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shubhamjadha04/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/shubhamjadha04/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Dynamic Programming
@@ -181,6 +182,7 @@ Here i practice daily questions
 | [0748-shortest-completing-word](https://github.com/shubhamjadha04/leetcode/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/shubhamjadha04/leetcode/tree/master/0804-unique-morse-code-words) |
 | [1122-relative-sort-array](https://github.com/shubhamjadha04/leetcode/tree/master/1122-relative-sort-array) |
+| [1331-rank-transform-of-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -210,6 +212,7 @@ Here i practice daily questions
 | [1030-matrix-cells-in-distance-order](https://github.com/shubhamjadha04/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/shubhamjadha04/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/shubhamjadha04/leetcode/tree/master/1122-relative-sort-array) |
+| [1331-rank-transform-of-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Counting
 |  |
 | ------- |
