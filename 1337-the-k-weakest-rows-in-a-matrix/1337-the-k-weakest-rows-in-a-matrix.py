@@ -1,25 +1,19 @@
 class Solution:
     def kWeakestRows(self, mat: list[list[int]], k: int) -> list[int]:
 
-        count = {}
         res = []
 
-        for i in range(len(mat)):
-            s = 0
-            for j in range(len(mat[i])):
-                if mat[i][j] == 1:
-                    s +=1
-
-            count[i] = s
+        for i, val in enumerate(mat):
+            res.append((val.count(1),i))
 
         
-        count = dict(sorted(count.items(), key = lambda x: x[1]))
+        res.sort()
+        ans = []
 
-        for key in count:
-            res.append(key)
+        for i in range(k):
+            ans.append(res[i][1])
 
-        
-        return res[:k]
+        return ans
 
         
 
