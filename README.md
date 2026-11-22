@@ -126,6 +126,7 @@ Here i practice daily questions
 | [1122-relative-sort-array](https://github.com/shubhamjadha04/leetcode/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shubhamjadha04/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shubhamjadha04/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/shubhamjadha04/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/shubhamjadha04/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Dynamic Programming
@@ -213,6 +214,7 @@ Here i practice daily questions
 | [1051-height-checker](https://github.com/shubhamjadha04/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/shubhamjadha04/leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shubhamjadha04/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Counting
 |  |
 | ------- |
@@ -240,6 +242,7 @@ Here i practice daily questions
 | [0441-arranging-coins](https://github.com/shubhamjadha04/leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/shubhamjadha04/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shubhamjadha04/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shubhamjadha04/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -316,6 +319,7 @@ Here i practice daily questions
 | [0733-flood-fill](https://github.com/shubhamjadha04/leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/shubhamjadha04/leetcode/tree/master/0766-toeplitz-matrix) |
 | [1030-matrix-cells-in-distance-order](https://github.com/shubhamjadha04/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shubhamjadha04/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -340,6 +344,7 @@ Here i practice daily questions
 | ------- |
 | [0506-relative-ranks](https://github.com/shubhamjadha04/leetcode/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0912-sort-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shubhamjadha04/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Counting Sort
 |  |
 | ------- |
