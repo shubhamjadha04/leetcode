@@ -64,6 +64,7 @@ Here i practice daily questions
 | [3564-seasonal-sales-analysis](https://github.com/shubhamjadha04/leetcode/tree/master/3564-seasonal-sales-analysis) |
 | [3570-find-books-with-no-available-copies](https://github.com/shubhamjadha04/leetcode/tree/master/3570-find-books-with-no-available-copies) |
 | [3580-find-consistently-improving-employees](https://github.com/shubhamjadha04/leetcode/tree/master/3580-find-consistently-improving-employees) |
+| [3586-find-covid-recovery-patients](https://github.com/shubhamjadha04/leetcode/tree/master/3586-find-covid-recovery-patients) |
 ## Array
 |  |
 | ------- |
