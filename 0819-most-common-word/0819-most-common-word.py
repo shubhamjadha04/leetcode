@@ -5,19 +5,7 @@ class Solution:
 
         para = re.findall(r'[a-z]+', paragraph.lower())
 
-        res = []
-
-        for word in para:
-            s = ""
-
-            for w in word:
-                if w.isalpha():
-                    s += w
-
-            if s:
-                res.append(s)
-
-        for i in res:
+        for i in para:
             if i not in banned:
                 count[i] = count.get(i, 0) + 1
 
