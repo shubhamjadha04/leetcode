@@ -129,6 +129,7 @@ Here i practice daily questions
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shubhamjadha04/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shubhamjadha04/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/shubhamjadha04/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/shubhamjadha04/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/shubhamjadha04/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Dynamic Programming
@@ -187,6 +188,7 @@ Here i practice daily questions
 | [0819-most-common-word](https://github.com/shubhamjadha04/leetcode/tree/master/0819-most-common-word) |
 | [1122-relative-sort-array](https://github.com/shubhamjadha04/leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/shubhamjadha04/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -218,6 +220,7 @@ Here i practice daily questions
 | [1122-relative-sort-array](https://github.com/shubhamjadha04/leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shubhamjadha04/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/shubhamjadha04/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Counting
 |  |
 | ------- |
@@ -247,6 +250,7 @@ Here i practice daily questions
 | [0704-binary-search](https://github.com/shubhamjadha04/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shubhamjadha04/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shubhamjadha04/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/shubhamjadha04/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
 | ------- |
@@ -260,6 +264,7 @@ Here i practice daily questions
 | [0905-sort-array-by-parity](https://github.com/shubhamjadha04/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/shubhamjadha04/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhamjadha04/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/shubhamjadha04/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Design
 |  |
 | ------- |
