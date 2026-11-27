@@ -131,6 +131,7 @@ Here i practice daily questions
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shubhamjadha04/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shubhamjadha04/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shubhamjadha04/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shubhamjadha04/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/shubhamjadha04/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/shubhamjadha04/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Dynamic Programming
@@ -191,6 +192,7 @@ Here i practice daily questions
 | [1122-relative-sort-array](https://github.com/shubhamjadha04/leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shubhamjadha04/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shubhamjadha04/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -224,6 +226,7 @@ Here i practice daily questions
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shubhamjadha04/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shubhamjadha04/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shubhamjadha04/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shubhamjadha04/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
 | ------- |
@@ -366,6 +369,7 @@ Here i practice daily questions
 | [0912-sort-an-array](https://github.com/shubhamjadha04/leetcode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/shubhamjadha04/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/shubhamjadha04/leetcode/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shubhamjadha04/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Backtracking
 |  |
 | ------- |
